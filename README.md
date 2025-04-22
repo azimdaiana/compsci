@@ -1,2 +1,2 @@
 # compsci
-hey hey you you
+assignment done for an intro to cs course at Columbia 
